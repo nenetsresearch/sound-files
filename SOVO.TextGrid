@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.4933560090702946 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 2.4933560090702946 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2481860376281046 
+            text = "xasawa ťuku-mʔ tola-b'i" 
+        intervals [2]:
+            xmin = 1.2481860376281046 
+            xmax = 1.6538469396335913 
+            text = "<s_p>" 
+        intervals [3]:
+            xmin = 1.6538469396335913 
+            xmax = 2.4933560090702946 
+            text = "ťuku kniga-mʔ" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 2.4933560090702946 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2481860376281046 
+            text = "man this-acc read-dur.3sg" 
+        intervals [2]:
+            xmin = 1.2481860376281046 
+            xmax = 1.6538469396335913 
+            text = "SIL" 
+        intervals [3]:
+            xmin = 1.6538469396335913 
+            xmax = 2.4933560090702946 
+            text = "this book-acc" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "eng" 
+        xmin = 0 
+        xmax = 2.4933560090702946 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4933560090702946 
+            text = "The man is reading this, this book." 

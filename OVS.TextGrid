@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5073125 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 1.5073125 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8074438159418014 
+            text = "Irina-mʔ măneʔ-ŋa-ś" 
+        intervals [2]:
+            xmin = 0.8074438159418014 
+            xmax = 1.5073125 
+            text = "Pavel" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 1.5073125 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8074438159418014 
+            text = "Irina-acc see-co-3sg.pst" 
+        intervals [2]:
+            xmin = 0.8074438159418014 
+            xmax = 1.5073125 
+            text = "Pavel" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "eng" 
+        xmin = 0 
+        xmax = 1.5073125 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5073125 
+            text = "(He) saw Irina, Pavel." 
