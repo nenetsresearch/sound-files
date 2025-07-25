@@ -1,0 +1,61 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.6021768707482993 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 1.6021768707482993 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5675523050863815 
+            text = "Мо""нэй'" 
+        intervals [2]:
+            xmin = 0.5675523050863815 
+            xmax = 1.6021768707482993 
+            text = "хасава_ӈацекы." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 1.6021768707482993 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5675523050863815 
+            text = "moʔne-jʔ" 
+        intervals [2]:
+            xmin = 0.5675523050863815 
+            xmax = 1.6021768707482993 
+            text = "xasawa_ŋaćeki" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 1.6021768707482993 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5675523050863815 
+            text = "fall.down-3sg.refl" 
+        intervals [2]:
+            xmin = 0.5675523050863815 
+            xmax = 1.6021768707482993 
+            text = "boy" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 1.6021768707482993 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6021768707482993 
+            text = "The boy fell down.
+" 

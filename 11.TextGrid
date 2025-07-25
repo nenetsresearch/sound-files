@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2028125 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "clause" 
+        xmin = 0 
+        xmax = 4.2028125 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5564321407692012 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5564321407692012 
+            xmax = 0.8634777667897046 
+            text = "Иринам" 
+        intervals [3]:
+            xmin = 0.8634777667897046 
+            xmax = 1.341363916365753 
+            text = "манэңась" 
+        intervals [4]:
+            xmin = 1.341363916365753 
+            xmax = 1.8929665464615109 
+            text = "Павел." 
+        intervals [5]:
+            xmin = 1.8929665464615109 
+            xmax = 4.2028125 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.2028125 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5564321407692012 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5564321407692012 
+            xmax = 0.8634777667897046 
+            text = "Irina-m" 
+        intervals [3]:
+            xmin = 0.8634777667897046 
+            xmax = 1.341363916365753 
+            text = "măneʔ-ŋa-ś" 
+        intervals [4]:
+            xmin = 1.341363916365753 
+            xmax = 1.8929665464615109 
+            text = "Pavel" 
+        intervals [5]:
+            xmin = 1.8929665464615109 
+            xmax = 4.2028125 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.2028125 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5564321407692012 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5564321407692012 
+            xmax = 0.8634777667897046 
+            text = "Irina-acc" 
+        intervals [3]:
+            xmin = 0.8634777667897046 
+            xmax = 1.341363916365753 
+            text = "see-co-3sg.pst" 
+        intervals [4]:
+            xmin = 1.341363916365753 
+            xmax = 1.8929665464615109 
+            text = "Pavel" 
+        intervals [5]:
+            xmin = 1.8929665464615109 
+            xmax = 4.2028125 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.2028125 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5564321407692012 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5564321407692012 
+            xmax = 4.2028125 
+            text = "(He) saw Irina, Pavel." 
