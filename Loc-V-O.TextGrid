@@ -11,20 +11,24 @@ item []:
         name = "yrk" 
         xmin = 0 
         xmax = 3.0882539682539685 
-        intervals: size = 4 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1089203486415282 
+            xmax = 0.8025946481281602 
             text = "Ян'" 
         intervals [2]:
-            xmin = 1.1089203486415282 
+            xmin = 0.8025946481281602 
+            xmax = 1.1033168297296982 
+            text = "HES" 
+        intervals [3]:
+            xmin = 1.1033168297296982 
             xmax = 1.835509967542139 
             text = " хавдада" 
-        intervals [3]:
+        intervals [4]:
             xmin = 1.835509967542139 
             xmax = 2.0204260916325256 
             text = "SIL" 
-        intervals [4]:
+        intervals [5]:
             xmin = 2.0204260916325256 
             xmax = 3.0882539682539685 
             text = "велосипедакомда" 
@@ -33,42 +37,50 @@ item []:
         name = "" 
         xmin = 0 
         xmax = 3.0882539682539685 
-        intervals: size = 4 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1089203486415282 
+            xmax = 0.8025946481281602 
             text = "Ja-nʔ" 
         intervals [2]:
-            xmin = 1.1089203486415282 
+            xmin = 0.8025946481281602 
+            xmax = 1.1033168297296982 
+            text = "HES" 
+        intervals [3]:
+            xmin = 1.1033168297296982 
             xmax = 1.835509967542139 
             text = "xawda-da" 
-        intervals [3]:
+        intervals [4]:
             xmin = 1.835509967542139 
             xmax = 2.0204260916325256 
-            text = "" 
-        intervals [4]:
+            text = "SIL" 
+        intervals [5]:
             xmin = 2.0204260916325256 
             xmax = 3.0882539682539685 
-            text = "welosipeda-ko-m-da" 
+            text = "welosiped-ako-m-da" 
     item [3]:
         class = "IntervalTier" 
         name = "" 
         xmin = 0 
         xmax = 3.0882539682539685 
-        intervals: size = 4 
+        intervals: size = 5 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1089203486415282 
+            xmax = 0.8025946481281602 
             text = "ground-dat" 
         intervals [2]:
-            xmin = 1.1089203486415282 
+            xmin = 0.8025946481281602 
+            xmax = 1.1033168297296982 
+            text = "" 
+        intervals [3]:
+            xmin = 1.1033168297296982 
             xmax = 1.835509967542139 
             text = "lay.down-sg.3sg" 
-        intervals [3]:
+        intervals [4]:
             xmin = 1.835509967542139 
             xmax = 2.0204260916325256 
             text = "" 
-        intervals [4]:
+        intervals [5]:
             xmin = 2.0204260916325256 
             xmax = 3.0882539682539685 
             text = "bike-dim-acc-3sg" 
@@ -81,4 +93,4 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 3.0882539682539685 
-            text = "He/She laid his/her bike down on the ground." 
+            text = "He laid his bike down on the ground." 
