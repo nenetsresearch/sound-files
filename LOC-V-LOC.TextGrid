@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.6411791383219954 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "yrk" 
+        xmin = 0 
+        xmax = 2.6411791383219954 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1097275462369698 
+            text = "m’ade_kaja-niʔ, " 
+        intervals [2]:
+            xmin = 1.1097275462369698 
+            xmax = 1.3764999540272171 
+            text = "" 
+        intervals [3]:
+            xmin = 1.3764999540272171 
+            xmax = 1.7662752085231472 
+            text = "" 
+        intervals [4]:
+            xmin = 1.7662752085231472 
+            xmax = 2.6411791383219954 
+            text = "ńiśa-n_ńa-ʔ" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 2.6411791383219954 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1097275462369698 
+            text = "campsite-dat_go-1du" 
+        intervals [2]:
+            xmin = 1.1097275462369698 
+            xmax = 1.3764999540272171 
+            text = "HES" 
+        intervals [3]:
+            xmin = 1.3764999540272171 
+            xmax = 1.7662752085231472 
+            text = "SIL" 
+        intervals [4]:
+            xmin = 1.7662752085231472 
+            xmax = 2.6411791383219954 
+            text = "father-gen_to.dat" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 2.6411791383219954 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.6411791383219954 
+            text = "We went to the campsites, to my father." 

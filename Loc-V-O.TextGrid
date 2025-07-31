@@ -41,11 +41,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.8025946481281602 
-            text = "Ja-nʔ" 
+            text = "ja-nʔ" 
         intervals [2]:
             xmin = 0.8025946481281602 
             xmax = 1.1033168297296982 
-            text = "HES" 
+            text = "" 
         intervals [3]:
             xmin = 1.1033168297296982 
             xmax = 1.835509967542139 
@@ -53,7 +53,7 @@ item []:
         intervals [4]:
             xmin = 1.835509967542139 
             xmax = 2.0204260916325256 
-            text = "SIL" 
+            text = "" 
         intervals [5]:
             xmin = 2.0204260916325256 
             xmax = 3.0882539682539685 
@@ -71,7 +71,7 @@ item []:
         intervals [2]:
             xmin = 0.8025946481281602 
             xmax = 1.1033168297296982 
-            text = "" 
+            text = "HES" 
         intervals [3]:
             xmin = 1.1033168297296982 
             xmax = 1.835509967542139 
@@ -79,7 +79,7 @@ item []:
         intervals [4]:
             xmin = 1.835509967542139 
             xmax = 2.0204260916325256 
-            text = "" 
+            text = "SIL" 
         intervals [5]:
             xmin = 2.0204260916325256 
             xmax = 3.0882539682539685 
